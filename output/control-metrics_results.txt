@@ -1,0 +1,24 @@
+Classifier: RandomForest
+Mean Absolute Error (MAE): 24.622500000000002
+Mean Squared Error (MSE): 1184.6149199458555
+----------------------------------------
+Classifier: NaiveBayes
+Mean Absolute Error (MAE): 24.622500000000002
+Mean Squared Error (MSE): 1184.6339237267748
+----------------------------------------
+Classifier: GradientBoosting
+Mean Absolute Error (MAE): 24.622500000000002
+Mean Squared Error (MSE): 1184.613464189144
+----------------------------------------
+Classifier: KNN
+Mean Absolute Error (MAE): 24.6225
+Mean Squared Error (MSE): 1184.6227701806556
+----------------------------------------
+Classifier: SVC
+Mean Absolute Error (MAE): 24.622500000000002
+Mean Squared Error (MSE): 1184.6371950194934
+----------------------------------------
+Classifier: AdaBoost
+Mean Absolute Error (MAE): 24.622500000000002
+Mean Squared Error (MSE): 1184.799810415383
+----------------------------------------

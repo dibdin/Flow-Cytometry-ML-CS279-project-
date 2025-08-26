@@ -4,6 +4,8 @@
 
 A Stanford CS279 machine learning project that builds and compares dimensionality reduction methods to improve interpretability and performance of classifiers trained on high-dimensional flow cytometry data for white blood cell classification.
 
+Link to research paper for final assignment in CS279 course: https://docs.google.com/document/d/1IzTpY50HBXuPKdhnfuKxsrRETyFqfIDhkzTg1cvAP3Y/edit?usp=sharing
+
 ## 📊 Project Overview
 
 This project implements and evaluates various machine learning approaches for classifying white blood cell types from flow cytometry data. The pipeline includes:
